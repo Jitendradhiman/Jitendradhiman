@@ -1,6 +1,6 @@
 # Jitendra Kumar Dhiman — AL/ML Researcher  
 
-🌐 [Website](https://jitendradhiman.github.io/) • [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) • ![GitHub followers](https://img.shields.io/github/followers/Jitendradhiman?label=Follow&style=social) • ![Profile views](https://komarev.com/ghpvc/?username=Jitendradhiman&color=blue)  
+🌐 [Website](https://jitendradhiman.github.io/) • [LinkedIn](https://www.linkedin.com/in/jitendra-kumar-dhiman-phd-b02462a0) • ![GitHub followers](https://img.shields.io/github/followers/Jitendradhiman?label=Follow&style=social) • ![Profile views](https://komarev.com/ghpvc/?username=Jitendradhiman&color=blue)  
 
 🚀 Advancing speech & audio technologies — from signal processing research to real-world ML systems  
 📍 Bangalore, India
@@ -63,12 +63,11 @@ Previously, I led the development of **multilingual ASR systems** at **Samsung R
 | **AI / ML** | PyTorch, TensorFlow, Scikit-learn |
 | **Speech & Audio Processing** | ASR, TTS, Speech Enhancement, Audio Codecs, DSP |
 | **Generative Models** | WaveNet, Transformer-based ASR/TTS, Self-Supervised Speech Models (wav2vec2, HuBERT) |
-| **Data Handling** | NumPy, Pandas, SciPy, HDF5 |
 | **Research & Writing** | LaTeX, Technical Writing, Conference Presentations |
 
 <!-- | **Edge / Deployment** | Docker | -->
 <!-- | **Optimization / Performance** | Quantization, Pruning, Knowledge Distillation, Low-Latency Inference | -->
-
+<!-- | **Data Handling** | NumPy, Pandas, SciPy, HDF5 | -->
 ---
 
 ## 📄 Publications  
